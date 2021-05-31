@@ -1,0 +1,27 @@
+body{
+	background-color:#E5E5E5;;
+}
+nav
+{
+	background-color: transparent;
+
+}
+#firstnav
+{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+#endline
+{
+
+	border-bottom:2px solid #DAD5D0 ;
+	padding-left: 0px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 0px;
+
+}
+.nav-link
+{
+	font-weight: bold;
+}
