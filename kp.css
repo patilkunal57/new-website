@@ -1,5 +1,10 @@
 body{
-	background-color:#E5E5E5;;
+	background-color:#f7efe5;
+	font-family: Titillium Web;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
 }
 nav
 {
@@ -23,5 +28,5 @@ nav
 }
 .nav-link
 {
-	font-weight: bold;
+	font-weight: bolder;
 }
